@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Nick (SameOldNick)
+
+![GitHub Avatar](https://avatars.githubusercontent.com/u/684414179?v=4)
+
+I'm a passionate **Software Engineer** who loves building robust, user-friendly applications and exploring new technologies. Whether it's backend, frontend, or mobile, I enjoy turning ideas into impactful software.
+
+---
+
+## 🚀 Tech Stack
+
+- **Languages:** C#, TypeScript, PHP, Java
+- **Frameworks/Libraries:** Laravel, React, React Native
+
+---
+
+## 🌟 Featured Project
+
+[![SameOldWebsite](https://github-readme-stats.vercel.app/api/pin/?username=SameOldNick&repo=SameOldWebsite)](https://github.com/SameOldNick/SameOldWebsite)
+
+Check out my [SameOldWebsite](https://github.com/SameOldNick/SameOldWebsite)—my digital playground, portfolio, and more!
+
+---
+
+## 🌐 Connect with Me
+
+- **Website:** [sameoldnick.com](https://www.sameoldnick.com/)
+- **LinkedIn:** [in/nickhamnett](https://www.linkedin.com/in/nickhamnett/)
+
+---
+
+> “Always learning, always building.”
 
 <!--
-**SameOldNick/SameOldNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to know more or collaborate on something awesome? Drop by my website or connect on LinkedIn!
 -->
