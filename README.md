@@ -13,9 +13,10 @@ I'm a passionate **Software Engineer** who loves building robust, user-friendly 
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 [![SameOldWebsite](https://github-readme-stats.vercel.app/api/pin/?username=SameOldNick&repo=SameOldWebsite)](https://github.com/SameOldNick/SameOldWebsite)
+[![NtfsSharp](https://github-readme-stats.vercel.app/api/pin/?username=SameOldNick&repo=NtfsSharp)](https://github.com/SameOldNick/NtfsSharp)
 
 Check out my [SameOldWebsite](https://github.com/SameOldNick/SameOldWebsite)—my digital playground, portfolio, and more!
 
