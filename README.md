@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nick (SameOldNick)
 
-![GitHub Avatar](https://avatars.githubusercontent.com/u/684414179?v=4)
+![GitHub Avatar](https://avatars.githubusercontent.com/u/110937288?v=4)
 
 I'm a passionate **Software Engineer** who loves building robust, user-friendly applications and exploring new technologies. Whether it's backend, frontend, or mobile, I enjoy turning ideas into impactful software.
 
